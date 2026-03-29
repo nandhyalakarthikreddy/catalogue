@@ -5,7 +5,7 @@ def configMap = [
     component: "catalogue"
 ]
 
-//this is call function
+//this is call functions.
 nodeJSEKSPipeline(configMap)
 
 // echo "Going to execute Jenkins shared library"
